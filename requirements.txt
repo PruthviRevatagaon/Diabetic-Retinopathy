@@ -1,0 +1,11 @@
+PyQt5==5.15.11
+torch==2.6.0
+torchvision==0.21.0
+Pillow==10.4.0
+efficientnet-pytorch==0.7.1 
+scikit-image==0.25.2
+ultralytics==8.3.111
+opencv-python==4.11.0.86
+numpy==1.26.4
+matplotlib==3.10.1
+shap==0.47.2
